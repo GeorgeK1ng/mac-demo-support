@@ -1,7 +1,9 @@
 # Heroes of Might and Magic III Demo Support Mod
 
-This mod enables support for playing with the demo version of **Heroes of Might and Magic III**.  
-It includes a limited selection of content while still offering a variety of gameplay elements.  
+This mod enables support for playing with the demo version of **Heroes of Might and Magic III**. 
+It's designed for use with merged demo files created using ➡️ [Heroes of Might and Magic III Demo Builder for VCMI](https://github.com/GeorgeK1ng/heroes3demo).  
+
+The mod includes a limited selection of content while still offering a variety of gameplay elements.
 
 ## 🎮 Playable towns  
 - 🏰 **Castle**  
